@@ -1,8 +1,8 @@
 {
-  "name": "bael-cms-template",
+  "name": "dank-football-blog",
   "version": "1.0 dev",
-  "description": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js",
-  "author": "jake101 <hello@jake101.com>",
+  "description": "Blog for dank football",
+  "author": "ribhu97 <ribhu197@gmail.com>",
   "scripts": {
     "dev": "nuxt",
     "serve": "nuxt",
