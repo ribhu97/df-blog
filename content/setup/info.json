@@ -1,9 +1,9 @@
 {
-  "sitename": "Bael",
-  "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js.",
-  "siteicon": "/images/uploads/icon.png",
+  "sitename": "Dank Football",
+  "sitedescription": "High on Football",
+  "siteicon": "/images/uploads/df_logo.jpg",
   "showmenu": true,
-  "emailsignup": true,
+  "emailsignup": false,
   "altlayout": false,
   "menu": [
     {
@@ -21,5 +21,6 @@
       "position": "3",
       "link": "https://www.netlify.com/"
     }
-  ]
+  ],
+  "linkcolor": "#20e820"
 }
