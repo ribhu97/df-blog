@@ -23,6 +23,14 @@
                   >{{post.category}}</nuxt-link>
                 </div>
               </li>
+              <li class="xs-inline-block xs-mr1" v-if="post.author">
+                <div class="tag fill-gray-darker xs-border">
+                  <nuxt-link
+                    :to="`/category/${post.author.toLowerCase()}`"
+                    class="tag__link text-white"
+                  >{{post.author}}</nuxt-link>
+                </div>
+              </li>
               <li class="xs-inline-block">{{ post.date }}</li>
             </ul>
           </div>
