@@ -3,6 +3,7 @@ title: Chelsea are eyeing these three defenders for next season
 date: Tuesday June 14th, 2022
 thumbnail: /images/uploads/https-astamfordbridgetoofar.com-wp-content-uploads-2022-06-fc-internazionale-v-empoli-fc-serie-a-2048x1366.jpg.webp
 category: Transfers
+author: Abhishek Banerjee
 ---
 Chelsea are set to lose a plethora of key defensive figures from their squad and so far there have been no replacements. The club stated that they have released Andreas Christensen, Danny Drinkwater and Charley Musonda Jr and also lost Antonio Rudiger on a free to Real Madrid, which was possibly the worst kept transfer secret in the past 6 months and are possibly going to lose the Spanish pairing of Azpilicueta and Marcos Alonso to Barcelona.With so many significant departures it only makes sense to seek out similar high quality replacements in the backline.
 
