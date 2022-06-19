@@ -1,0 +1,14 @@
+---
+title: Looking at Tottenham's Transfer Window So Far
+date: Sunday June 19th, 2022
+thumbnail: /images/uploads/1_antonio-conte-2.jpg
+category: Transfers
+author: Abhishek Banerjee
+---
+Tottenham Hotspur have beaten Arsenal to signing Yves Bissouma for a reported £25 Million, from Brighton. The Mali international will be competing for one of the two spots currently occupied by Bentancur and Hojberg unless Antonio Conte shifts over to a 3-5-2, but would require additional signings in the midfield to pull it off over an entire season. The former arrived in January and made an immediate impact, stepping in for the injured Oliver Skipp. With the arrivals of Ivan Perisic & Fraser Foster, Antonio Conte is slowly building a squad which may be able to challenge the duopoly at the top of the English Premier League. Signing Bissouma is a shrewd move - taking him away from one of their main rivals has certainly thrown a spanner in the works of Arsenal’s transfer strategy and in Ivan Perisic, Spurs have an experienced option on the left and in Fraser Foster they have a Premier league proven goalkeeper as a back-up for the mighty Hugo Lloris. 
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Our new boys 📸 <a href="https://t.co/qtJDIA29sy">pic.twitter.com/qtJDIA29sy</a></p>&mdash; Tottenham Hotspur (@SpursOfficial) <a href="https://twitter.com/SpursOfficial/status/1538227796442501120?ref_src=twsrc%5Etfw">June 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+There have been a few rumours linking the ever-impressive Lautaro Martinez back with his old boss. Lautaro Martinez was paired up with Romelu Lukaku under Conte for the 2020-21 Serie A season, where they went on to win the Scudetto. A front line of Harry Kane, Lautaro Martinez and Son will be a sight to fear for most defenses, specifically Son who was robbed of a PFA Team of the Year nomination after his impressive performances all throughout the 2020-21 season, chipping in with 23 goals and 7 assists in 35 Premier League games and Harry Kane recovered well from a woeful start to the season to end on 26 goal contributions. Saying all of that, Lautaro Martinez is expected to cost upwards of £77 Million which could make Spurs to look at Richarlision who is expected to jump ship from an Everton side which finished just 4 points ahead of relegated Burnley, the Brazilian being their top goalscorer after a woeful season.
+
+ Antonio Conte has a plethora of skilful players at his disposal and could possibly still be on the lookout for more transfers to help retain their spot in the top 4 once again.
